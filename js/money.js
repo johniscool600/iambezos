@@ -1,6 +1,6 @@
 speed = 10;
 
-bezosIncrease = 2447.68;
+bezosIncrease = 9161.87;
 gatesIncrease = 254.06;
 muskIncrease = 1978.44;
 zuckIncrease = 668.99;
